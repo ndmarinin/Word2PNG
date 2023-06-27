@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word2PNG", "Word2JPG\Word2PNG.csproj", "{D0412C43-56CF-4829-B478-7EEBCDF096ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0412C43-56CF-4829-B478-7EEBCDF096ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0412C43-56CF-4829-B478-7EEBCDF096ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0412C43-56CF-4829-B478-7EEBCDF096ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0412C43-56CF-4829-B478-7EEBCDF096ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF87656-32EC-42E4-B0AB-FC3769FAC57F}
+	EndGlobalSection
+EndGlobal
