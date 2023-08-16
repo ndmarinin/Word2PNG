@@ -12,7 +12,7 @@
             <ColumnDefinition Width="3*"/>
             <ColumnDefinition Width="82*"/>
         </Grid.ColumnDefinitions>
-        <TextBox x:Name="DocTextBox" HorizontalAlignment="Left" Margin="20,47,0,0" TextWrapping="Wrap" Text="Path to .doc file" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
+        <TextBox x:Name="DocTextBox" HorizontalAlignment="Left" Margin="20,47,0,0" TextWrapping="Wrap" Text="Path to .doc or .xls file" VerticalAlignment="Top" Width="156" Grid.Column="2" TextChanged="DocTextBox_TextChanged"/>
         <Button Content="Load" HorizontalAlignment="Left" Margin="23,45,0,0" VerticalAlignment="Top" Click="Button_Load" Width="39" Grid.ColumnSpan="3"/>
         <Button Content="Save" HorizontalAlignment="Left" Margin="23,83,0,0" VerticalAlignment="Top" Width="39" Grid.ColumnSpan="3" Click="Button_Save"/>
 
